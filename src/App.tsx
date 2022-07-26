@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import logo from './logo.svg'
 import './App.css'
 
-import { createScClient, WellKnownChain } from "connectest";
+import { createScClient, WellKnownChain } from "@substrate/connect";
 
 function App() {
   const [some, setSome] = useState<string>("")

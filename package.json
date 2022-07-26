@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "connectest": "^0.1.12",
+    "@substrate/connect": "0.7.9",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
